@@ -51,8 +51,10 @@ Bitte stellt eure Lösung in einem Github zur Verfügung und Schickt uns den Lin
 - Eure Ergebnisse und 
 - den Source Code mit ausführlicher Dokumentation (inkl. Liste der Depen-dencies) enthalten. 
 
-Fügt eurer Mail bitte auch einen Lebenslauf(!) und den Steckbrief aus dem Repo hinzu. An wen? challenge@next-data-service.com
-bis zum 22. Juni 2020, 23.59 Uhr.
+Fügt eurer Mail bitte außerdem den ausgefüllten Steckbrief (ein Beispiel findet ihr im challenge repo) und wenn ihr möchtet einen Lebenslauf hinzu.
+
+Einreichungsfrist: 2. Juni 2020, 23.59 Uhr
+Einreichen an: challenge@next-data-service.com
 
 ## FAQ
 
