@@ -48,7 +48,7 @@ Bitte stellt eure Lösung in einem Github zur Verfügung und Schickt uns den Lin
 - Eure Ergebnisse und 
 - den Source Code mit ausführlicher Dokumentation (inkl. Liste der Depen-dencies) enthalten. 
 
-Fügt eurer Mail bitte auch einen Lebenslauf(!) und den Steckbrief aus dem Repo hinzu. An wen? karriere@next-data-service.com
+Fügt eurer Mail bitte auch einen Lebenslauf(!) und den Steckbrief aus dem Repo hinzu. An wen? challenge@next-data-service.com
 bis zum 22. Juni 2020, 23.59 Uhr.
 
 ## FAQ
