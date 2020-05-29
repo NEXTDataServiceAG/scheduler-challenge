@@ -10,30 +10,30 @@ Von unserer Produktseite <https://www.next-or.de/>
 ## Datensatz
 
 Wir haben für euch aus einem unserer Produkte einen Teildatensatz extrahiert. Es sind reale Daten die wir für diese challenge anonymisiert haben. Auf Github <link> könnt ihr euch die Repo klonen. Hier eine Übersicht einiger Parameter:
--empId: Operiender Arzt
--personId: Patient
--regDate: Wann die Op ins system eingetragen wurde
--opRoom: Raumkennzeichnung
--disciplin: Art der Op, Je nach Disziplin wurden passende Ärzte und Räume ausge-wählt. 
--urgencyMapped: Wie dringlich ist die Op
--Duration: Wie lange dauert die op (in Sekunden)
+- empId: Operiender Arzt
+- personId: Patient
+- regDate: Wann die Op ins system eingetragen wurde
+- opRoom: Raumkennzeichnung
+- disciplin: Art der Op, Je nach Disziplin wurden passende Ärzte und Räume ausge-wählt. 
+- urgencyMapped: Wie dringlich ist die Op
+- Duration: Wie lange dauert die op (in Sekunden)
 
 
 ## Fragen, die ihr euch beim Coden stellen solltet:
 
-	-Wie verteilen wir Ärzte auf Räume?
-	-Wie verteilen wir Ops auf Räume?
-	-Wie berechnen wir einen guten Schedule?
+- Wie verteilen wir Ärzte auf Räume?
+- Wie verteilen wir Ops auf Räume?
+- Wie berechnen wir einen guten Schedule?
 
 
 ## Eine gute Lösung sollte:
 
-	-Bestmögliche Auslastung der Ärzte und Räume ermöglichen
-	-Leerlaufzeiten der Räume und Ärzte minimieren, Anzahl und Pace maximieren
-	-Berechnungszeit minimieren:
-		-1 Stunde? Cool und reiche deine Lösung an die Mail unten ein
-		-10 Minuten? schick deine Mail direkt an den Projektleiter René (rene@next-data-service.comwenn) 
-		-20 Sekunden? schick deine Mail bitte direkt an unseren CTO (stephan@next-data-service.com)
+- Bestmögliche Auslastung der Ärzte und Räume ermöglichen
+- Leerlaufzeiten der Räume und Ärzte minimieren, Anzahl und Pace maximieren
+- Berechnungszeit minimieren:
+-- 1 Stunde? Cool und reiche deine Lösung an die Mail unten ein
+-- 10 Minuten? schick deine Mail direkt an den Projektleiter René (rene@next-data-service.comwenn) 
+-- 20 Sekunden? schick deine Mail bitte direkt an unseren CTO (stephan@next-data-service.com)
 
 
 ## Rahmenbedingungen
