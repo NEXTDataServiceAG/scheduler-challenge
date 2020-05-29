@@ -31,8 +31,11 @@ Wir haben für euch aus einem unserer Produkte einen Teildatensatz extrahiert. E
 - Bestmögliche Auslastung der Ärzte und Räume ermöglichen
 - Leerlaufzeiten der Räume und Ärzte minimieren, Anzahl und Pace maximieren
 - Berechnungszeit minimieren:
+
 -1 Stunde? Cool und reiche deine Lösung an die Mail unten ein
--10 Minuten? schick deine Mail direkt an den Projektleiter René (rene@next-data-service.comwenn) 
+
+-10 Minuten? schick deine Mail direkt unseren Projektleiter René (rene@next-data-service.com) 
+
 -20 Sekunden? schick deine Mail bitte direkt an unseren CTO (stephan@next-data-service.com)
 
 
