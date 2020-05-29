@@ -50,3 +50,7 @@ Bitte stellt eure Lösung in einem Github zur Verfügung und Schickt uns den Lin
 
 Fügt eurer Mail bitte auch einen Lebenslauf(!) und den Steckbrief aus dem Repo hinzu. An wen? karriere@next-data-service.com
 bis zum 22. Juni 2020, 23.59 Uhr.
+
+## FAQ
+
+Hier beantworten wir Eure Fragen, die ihr uns per Mail an challenge@next-data-service.com stellt.
