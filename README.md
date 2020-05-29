@@ -42,8 +42,10 @@ Laufzeitumgebung, Programmiersprache, Datenbank? Was auch immer Ihr braucht um E
 #Teilnahme
 
 Ihr dürft in Zweierteams arbeiten oder eure Lösung alleine einreichen.
-Bitte stellt eure Lösung in einem Github zur Verfügung und Schickt uns den Link per Mail. Das Repo sollte 
+Bitte stellt eure Lösung in einem Github zur Verfügung und Schickt uns den Link per Mail. Das Repo sollte
+
 - Eure Ergebnisse und 
 - den Source Code mit ausführlicher Dokumentation (inkl. Liste der Depen-dencies) enthalten. 
+
 Fügt eurer Mail bitte auch einen Lebenslauf(!) und den Steckbrief aus dem Repo hinzu. An wen? karriere@next-data-service.com
 bis zum 22. Juni 2020, 23.59 Uhr.
