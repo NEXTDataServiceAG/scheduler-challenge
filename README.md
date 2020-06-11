@@ -34,9 +34,9 @@ Wir haben für euch aus einem unserer Produkte einen Teildatensatz extrahiert. E
 
 -1 Stunde? Cool und reiche deine Lösung an die Mail unten ein
 
--10 Minuten? schick deine Mail direkt unseren Projektleiter René (rene@next-data-service.com) 
+-10 Minuten? Schick deine Mail direkt an unseren Projektleiter René (rene@next-data-service.com) 
 
--20 Sekunden? schick deine Mail bitte direkt an unseren CTO (stephan@next-data-service.com)
+-20 Sekunden? Schick deine Mail bitte direkt an unseren CTO (stephan@next-data-service.com)
 
 
 ## Rahmenbedingungen
