@@ -59,3 +59,54 @@ Einreichen an: challenge@next-data-service.com
 ## FAQ
 
 Hier beantworten wir Eure Fragen, die ihr uns per Mail an challenge@next-data-service.com stellt.
+
+-	Gibt es eine Liste von Ärzte und den Skills die sie haben?
+
+Diese Informationen sind natürlich Teil des realen Problems, im Rahmen der Challenge sind sie allerdings nicht relevant.
+
+-	Gibt eine Liste von Räumen und den Arten von OPs die dort stattfinden können? 
+
+Diese Informationen sind auch Teil des realen Problems, im Rahmen der Challenge allerdings nicht relevant.
+
+-	Gibt es eine Liste an Operationen + Skills die benötigen + ist die Anzahl der Ärzte variabel?
+
+Geht von einem "1. Operateur" je OP aus. Im realen Problem es das natürlich komplexer.
+
+-	Warum ist die duration mit Nachkommastellen? Ist die Einheit Sekunde? Kann man die Länge der OP auf Minuten Runden?
+
+Genau, die Einheit ist in Sekunden angegeben. Entscheidet für Eure Lösung selbst, ob eine Rundung sinnvoll ist oder nicht. Bitte macht Eure Entscheidung mindestens im Code-Kommentar kenntlich.
+
+-	Was ist cleanessMapped?
+
+Umso höher die Kennzahl, desto höher ist die Anforderung an die Sauberkeit des Raumes.
+
+-	Wird eine Pause zwischen den OPs benötigt? Wenn ja wie lange und wo steht das?
+Nehmt an, dass alle OPs im selben OP-Trakt stattfinden und normale Zeiten zwischen OPs zur Vorbereitung und Laufwege eingeplant werden müssen.
+
+-	Von wann bis wann dürfen OPs durchgeführt werden? (Mo- Fr 8-18Uhr o.Ä.?) Ist das in jedem Raum gleich?
+
+Im Rahmen der Challenge kann Mo-Fr. 8 - 18 Uhr angenommen werden.
+
+-	Wie sind die Arbeitszeiten und Pausenzeiten der Ärzte geregelt?
+
+Im Rahmen der Challenge kann Mo-Fr. 8 - 18 Uhr angenommen werden.
+
+-	Wie soll was verdrängt werden? Gibt es nur „Notfälle“ die sofort stattfinden sollen und dann wird anhand der urgencyMapped die Dringlichkeit sortiert? Und was ist dringender 1 oder 10?
+
+Für die urgencyMapped gilt das gleiche wie bei der Sauberkeit: Umso Höher desto Dringender.
+
+-	Wie soll mit den Planungen umgegangen werden? Man kann ja den Patienten, der zu einer Routine Handoperation ambulant kommen soll und heute in 2 Wochen geplant wird, schlecht jeden Tag oder jede Stunde einen neuen Termin nennen, da immer andere evtl. etwas dringlichere Termine dazu kommen.
+
+Der Plan sollte die drei folgenden Kriterien optimieren:
+•	Robustheit: Weniger Verschiebungen = Besser
+•	Raumauslastung: Höher = Besser
+•	Überstunden: Weniger = Besser
+
+-	Was bedeuten die Farben in den Beispielplänen?
+
+In den Beispielplänen sind die Farben nicht bedeutend, sie dienen lediglich zur besseren Lesbarkeit.
+
+-	Kann es mehrere tobetimes geben? (Hab den Datensatz nur überflogen und nicht alles gecheckt)
+
+Nein
+
